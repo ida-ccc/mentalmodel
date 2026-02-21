@@ -6,30 +6,101 @@ summary: The rules of systems change at different scales
 prerequisites: Statistics
 ---
 
-#### Description
+## Description
 
-Every system has certain rules and principles. We tend to think that whatever rule there is will continue being correct for all scales but that is not the case. The most notable example comes from physics. [Classical physicsl vs Quantum physics](https://i.pinimg.com/originals/cb/36/fd/cb36fdd89caeb75faf21ceef83694cc6.jpg). Anyone familiar with it will know that the rules of the game is completely different for both of them. 
+Every system operates according to certain rules and principles. We often assume that a rule that works at one scale will continue to work at every scale — but that is not the case. One of the most notable examples comes from physics: [Classical physicsl vs Quantum physics](https://i.pinimg.com/originals/cb/36/fd/cb36fdd89caeb75faf21ceef83694cc6.jpg). At the human scale, classical physics works well. But at extremely small scales, the rules change entirely. The “game” is different.
 
-Another example comes from biology. The cells in our body live by different rules than us humans. And us humans live by different rules than human societies (companies, countries, humanity). As the scale changes the rules change. A notable example of this is individual humans trying to tackle global warming. This is like a cell in my body trying to fix my relationship problems. Each scale can only solve its own problems. Cells can solve organ problems, organs can solve human problems, humans can solve society problems and societies can solve global problems. So someone who knows this mental model, will not try to fix the earth but instead work on upgrading its company or country as in education, economy, etc. whatever that entity needs. 
+Another example comes from biology. Cells in our body operate by different rules than humans. Humans operate by different rules than human societies (companies, countries, civilizations). As scale changes, the governing rules also change.
 
-Another example of scale can be used in [Economics](https://lh6.googleusercontent.com/i3GmrJRKO_BdPcNHrV81hEvUItbUVMbk-yNDgkpgdmRaH5bCuH7d3eUdqWWCGCbdhSxqPZh-qDLsoXKKaKGOirE2RAJRESdQcXBuaU_Jgdi2sbmkoPoCk_JpbA8zfiVZw_0B9_Ik).
+A practical example of misunderstanding scale is when individuals try to solve global problems alone. For instance, one person trying to “fix global warming” directly is like a single cell in your body trying to fix your relationship problems. Each level of scale can primarily solve problems appropriate to its level:
+- Cells solve cellular problems.
+- Organs regulate bodily functions.
+- Humans make personal decisions.
+- Organizations shape economic and social structures.
+- Societies coordinate global-scale change.
 
-Another example comes from science. A scientist giving 4200j to 1kg of water which sits at 10°C will observe that its temperature has increased to 11°C. Then they give another 4200j and it increases to 12°C. Another 4200 and it increases to 13°C. The scientist continues doing this until it reaches 30°C. And the scientist concludes that to get the water to reach from 10°C to 1000°C he will need 4,158,000j. But in reality the water goes upto only 100°C and then starts evaporating. Which shows that methods also change rules when they are scaled. 
+Someone who understands scale will not attempt to “fix the Earth” alone. Instead, they might focus on improving their company, influencing policy, advancing education, or strengthening economic systems — because those are the scales that can influence global outcomes
 
-Another example of method comes from startups. Initially the founder can write code everyday to grow their company 1% every week. But once it hits a certain number the rules will change. At a certain scale the founder needs to stop writing code and start hiring people to continue progressing.
+**Scale in [Economics](https://lh6.googleusercontent.com/i3GmrJRKO_BdPcNHrV81hEvUItbUVMbk-yNDgkpgdmRaH5bCuH7d3eUdqWWCGCbdhSxqPZh-qDLsoXKKaKGOirE2RAJRESdQcXBuaU_Jgdi2sbmkoPoCk_JpbA8zfiVZw_0B9_Ik)**
 
-#### Practice
+What works for an individual (saving money, minimizing expenses) does not always work the same way for a government. If everyone saves aggressively during a recession, spending decreases and the economy may contract. At the individual level, saving is rational. At the macro level, excessive saving can slow growth. The rules change as scale increases.
 
-1. Think of anything
-2. Scale it a few levels down & above
-3. Observe how the rules change
+**Scale in Scientific Methods**
 
-#### Example-1
+Imagine a scientist gives 4,200 joules of energy to 1 kg of water at 10°C. The temperature increases to 11°C. Another 4,200 joules increases it to 12°C, and so on.
 
-1. Book
-2. Letters, Words, Books, Libraries. A lot of letters creates words. A lot of words create books, a lot of books create libraries.
-3. The way that all 4 of these come into being, survive, and die are totally different. Words are only able to live as long as the concept that they are tied to lives. Their livelihood is determined by the concepts livelihood. Books on the other hand need a publisher, need marketing, need designs & iterations. A Library on the other hand comes into being depending on the surrounding human population, the habits of the population, the economy of it and so on. 
+The scientist assumes that continuing this pattern will linearly increase the temperature all the way to 100°C and beyond.
 
+However, at 100°C, the water begins to evaporate. Additional energy changes the state of matter instead of raising temperature.
+
+At that point, the rules of the system change.
+
+Scaling a method linearly does not always produce linear results. Thresholds introduce new dynamics.
+
+**Scale in Startups**
+
+In the early stages of a startup, the founder can personally write code and improve the product.
+
+At small scale:
+- Direct effort → direct growth
+
+At larger scale:
+- Complexity increases
+- Communication becomes critical
+- Delegation becomes necessary
+
+Eventually, the founder must stop doing everything personally and begin building systems and teams. The rules of progress change with scale.
+
+### Practice
+
+1. Think of any system.
+2. Scale it down a few levels. Scale it up a few levels.
+3. Observe how the rules change at each level.
+
+### Example-1
+
+**Book System**
+
+Letters → Words → Books → Libraries
+- Letters combine to form words.
+- Words combine to form books.
+- Books combine to form libraries.
+
+**Words** survive only as long as their concepts remain relevant. **Books** require authors, publishers, design, marketing, and distribution. **Libraries** depend on population size, cultural habits, education systems, and economic conditions.
+
+### Example-2
+
+**Exercise and Health**
+
+One workout session improves your fitness slightly.
+
+At small scale:
+- One workout = minor muscle stimulation.
+
+At medium scale:
+- Weekly workouts improve strength and endurance.
+
+At large scale (years):
+- Exercise influences identity, lifestyle, and long-term health outcomes.
+
+However, extreme scaling changes the rules. Training 30 minutes daily is healthy. Training 5 hours daily without recovery leads to injury.
+
+### Example-3
+
+**Communication in Groups**
+
+Two people can communicate directly and informally.
+
+At small scale (2–3 people):
+- No formal structure is needed.
+
+At medium scale (10–15 people):
+- Clear roles and coordination become important.
+
+At large scale (100+ people):
+- Hierarchy, processes, and communication systems are required.
+
+What works in a small friend group does not work in a corporation. As group size increases, informal coordination breaks down and structured systems become necessary.
 
 <!-- #### Extra -->
 
